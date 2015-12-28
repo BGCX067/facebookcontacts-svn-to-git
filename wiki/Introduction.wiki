@@ -1,0 +1,9 @@
+#summary Short introduction
+
+= Introduction =
+
+The project was started to create a Facebook synchroniser that works, and has the most features.
+
+==Technologies used==
+
+I decided to use Qt 4.7.1 for Symbian, and Qt Mobility 1.2. These are planned the only dependencies, since these will always be included in the latest firmwares.
